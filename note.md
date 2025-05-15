@@ -22,3 +22,14 @@ Logs:
 Amount transferred
 Sender address
 Success/failure
+
+
+
+
+
+Ethereum Mainnet
+Binance Smart Chain
+Polygon
+Avalanche C-Chain
+Arbitrum
+Optimism
